@@ -16,7 +16,7 @@
 
 #### 1.2. Instalar módulo Pagar.me
 
-O arquivo do módulo se encontra na pasta `modulos` na raiz desse projeto: `modulos/pagarme-magento.zip`
+O arquivo do módulo se encontra na raiz desse projeto: `pagarme-magento.zip`
 
 ##### Configurações:
 
@@ -28,7 +28,7 @@ O arquivo do módulo se encontra na pasta `modulos` na raiz desse projeto: `modu
 
 #### 1.3. Instalar módulo Correios
 
-O arquivo do módulo se encontra na pasta `modulos` na raiz desse projeto: `modulos/correios-master.zip`
+O arquivo do módulo se encontra na raiz desse projeto: `correios-master.zip`
 
 ##### Configurações:
 
