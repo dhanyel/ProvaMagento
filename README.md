@@ -6,7 +6,7 @@
 
 ### 1. Instalação do Magento
 
-- Faça download do magento: https://magento.com/tech-resources/download `(utilize a versão 1.9.3.6)`  
+- Faça download do magento: https://magento.com/tech-resources/download `(utilize a versão 1.9.4.x)`  
 
 #### 1.2. Instalar módulo Pagar.me
 
