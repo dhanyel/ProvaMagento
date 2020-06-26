@@ -1,6 +1,6 @@
 # Desenvolvedor Magento
 
-> Seguir o roteiro conforme descrito
+> Seguir o roteiro conforme descrito e utilizar as últimas versões dos módulos disponibilizados no repositório
 
 ## Roteiro da Prova
 
