@@ -6,11 +6,11 @@
 
 ### 1. Instalação do Magento
 
-- Faça download do magento: https://magento.com/tech-resources/download `(utilize a versão 1.9.4.x)`  
+- Faça download do magento: https://www.magenteiro.com/blog/magento-1/magento1-download/ `(utilize a versão 1.9.4.x)`  
 
 #### 1.2. Instalar módulo Pagar.me
 
-O arquivo do módulo se encontra na raiz desse projeto: `pagarme-magento.zip`
+O arquivo do módulo se encontra na raiz desse projeto: `pagarme-magento-v3.22.1.zip`
 
 ##### Configurações:
 
@@ -22,7 +22,7 @@ O arquivo do módulo se encontra na raiz desse projeto: `pagarme-magento.zip`
 
 #### 1.3. Instalar módulo Correios
 
-O arquivo do módulo se encontra na raiz desse projeto: `correios-master.zip`
+O arquivo do módulo se encontra na raiz desse projeto: `correios-4.9.0.zip`
 
 ##### Configurações:
 
